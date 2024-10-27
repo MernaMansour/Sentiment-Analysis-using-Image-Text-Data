@@ -1,7 +1,7 @@
 # Sentiment-Analysis-using-Image-Text-Data
 ## Overview
 
-the aim of this project to build a  sentiment analysis system that integrates and analyzes both text and image data to predict sentiment accurately. This project challenges us to work  advanced techniques to design, train, and evaluate data . By the end of the project, we will gain a deep understanding of multimodal models and their applications in real-world scenarios such as social media sentiment detection, product reviews analysis, and emotional recognition from posts.
+the aim of this project to build a  sentiment analysis system that integrates and analyzes both text and image data to predict sentiment accurately. This project challenges us to work  advanced techniques to design, train, and evaluate data .
 
 ## Objective
 
@@ -36,4 +36,4 @@ The primary goal is to develop and train two models capable of extracting sentim
 
 ## Conclusion
 
-This capstone project provides an excellent opportunity to delve into multimodal sentiment analysis, allowing us to understand the interplay between text and image data in predicting sentiment. The techniques and models developed here can be applied to various real-world scenarios, enhancing our skills in machine learning and data analysis.
+This capstone project provides an excellent opportunity to delve into  sentiment analysis, allowing us to understand the text and image data in predicting sentiment. The techniques and models developed here can be applied to various real-world scenarios.
