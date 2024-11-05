@@ -37,3 +37,6 @@ The primary goal is to develop and train two models capable of extracting sentim
 ## Conclusion
 
 This capstone project provides an excellent opportunity to delve into  sentiment analysis, allowing us to understand the text and image data in predicting sentiment. The techniques and models developed here can be applied to various real-world scenarios.
+add new line 
+hello
+ndjdfjsd
